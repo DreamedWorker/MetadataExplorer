@@ -255,72 +255,142 @@
                         {
                             "Id": 273201,
                             "Level": 1,
-                            "Parameters": []
+                            "Parameters": [
+                                -0.499,
+                                2.304,
+                                0.501,
+                                12.0
+                            ]
                         },
                         {
                             "Id": 273202,
                             "Level": 2,
-                            "Parameters": []
+                            "Parameters": [
+                                -0.469,
+                                2.4768,
+                                0.531,
+                                12.0
+                            ]
                         },
                         {
                             "Id": 273203,
                             "Level": 3,
-                            "Parameters": []
+                            "Parameters": [
+                                -0.439,
+                                2.6496,
+                                0.561,
+                                12.0
+                            ]
                         },
                         {
                             "Id": 273204,
                             "Level": 4,
-                            "Parameters": []
+                            "Parameters": [
+                                -0.4,
+                                2.88,
+                                0.6,
+                                12.0
+                            ]
                         },
                         {
                             "Id": 273205,
                             "Level": 5,
-                            "Parameters": []
+                            "Parameters": [
+                                -0.37,
+                                3.0528,
+                                0.63,
+                                12.0
+                            ]
                         },
                         {
                             "Id": 273206,
                             "Level": 6,
-                            "Parameters": []
+                            "Parameters": [
+                                -0.34,
+                                3.2256,
+                                0.66,
+                                12.0
+                            ]
                         },
                         {
                             "Id": 273207,
                             "Level": 7,
-                            "Parameters": []
+                            "Parameters": [
+                                -0.301,
+                                3.456,
+                                0.699,
+                                12.0
+                            ]
                         },
                         {
                             "Id": 273208,
                             "Level": 8,
-                            "Parameters": []
+                            "Parameters": [
+                                -0.262,
+                                3.6864,
+                                0.738,
+                                12.0
+                            ]
                         },
                         {
                             "Id": 273209,
                             "Level": 9,
-                            "Parameters": []
+                            "Parameters": [
+                                -0.223,
+                                3.9168,
+                                0.777,
+                                12.0
+                            ]
                         },
                         {
                             "Id": 273210,
                             "Level": 10,
-                            "Parameters": []
+                            "Parameters": [
+                                -0.184,
+                                4.1472,
+                                0.816,
+                                12.0
+                            ]
                         },
                         {
                             "Id": 273211,
                             "Level": 11,
-                            "Parameters": []
+                            "Parameters": [
+                                -0.145,
+                                4.3776,
+                                0.855,
+                                12.0
+                            ]
                         },
                         {
                             "Id": 273212,
                             "Level": 12,
-                            "Parameters": []
+                            "Parameters": [
+                                -0.106,
+                                4.608,
+                                0.894,
+                                12.0
+                            ]
                         },
                         {
                             "Id": 273213,
                             "Level": 13,
-                            "Parameters": []
+                            "Parameters": [
+                                -0.067,
+                                4.896,
+                                0.933,
+                                12.0
+                            ]
                         },
                         {
                             "Id": 273214,
                             "Level": 14,
-                            "Parameters": []
+                            "Parameters": [
+                                -0.028,
+                                5.184,
+                                0.972,
+                                12.0
+                            ]
                         },
                         {
                             "Id": 273215,
