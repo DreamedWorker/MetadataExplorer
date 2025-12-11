@@ -1,8 +1,8 @@
 {
     "Id": 10000123,
     "PromoteId": 123,
-    "Icon": "UI_AvatarIcon_Durin",
-    "SideIcon": "UI_AvatarIcon_Side_Durin",
+    "Icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon/692f7d8b/5c560e25f4233835ed39a98ac6a04c5d.png",
+    "SideIcon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon/692f7dce/24c0cce8c4651f94518b34379b865826.png",
     "Name": "杜林",
     "Description": "在魔女M笔下诞生的龙，最终来到了人类的世界。而他的「故事」，也仍在继续。",
     "Quality": 5,
@@ -288,7 +288,7 @@
                 "Id": 11231,
                 "Name": "芒焰之翼斩",
                 "Description": "<color=#FFD780FF>普通攻击</color>\n进行至多四段的连续剑击。\n\n<color=#FFD780FF>重击</color>\n消耗一定体力，向前方进行一次斩击。\n\n<color=#FFD780FF>下落攻击</color>\n从空中下坠冲击地面，攻击下落路径上的敌人，并在落地时造成范围伤害。",
-                "Icon": "Skill_A_01"
+                "Icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon/67c7f71a/3f016e2d606ca39ea86e24d5245dfa5b.png"
             },
             {
                 "GroupId": 12332,
@@ -485,7 +485,7 @@
                 "Id": 11232,
                 "Name": "二元式·聚分熔炼",
                 "Description": "将灵魂与愿望的质料纯化，进行{LINK#N11230001}<color=#FFD780FF>精质转变</color>{/LINK}。期间，杜林的元素战技<color=#FFD780FF>二元式·聚分熔炼</color>将会被替换为特殊的元素战技<color=#FFD780FF>转变·白化之是</color>，普通攻击<color=#FFD780FF>芒焰之翼斩</color>将会被替换为特殊的元素战技<color=#FFD780FF>转变·黑度之否</color>。\n\n<color=#FFD780FF>转变·白化之是</color>\n对附近的敌人造成一次<color=#FF9999FF>火元素范围伤害</color>，解除精质转变，并进入<color=#FFD780FF>白化之是</color>状态，持续30秒。\n\n<color=#FFD780FF>转变·黑度之否</color>\n对前方的敌人连续造成三次<color=#FF9999FF>火元素伤害</color>，解除精质转变，并进入<color=#FFD780FF>黑度之否</color>状态，持续30秒。\n\n处于战斗状态下时，杜林进入<color=#FFD780FF>白化之是</color>或<color=#FFD780FF>黑度之否</color>状态时，还会为杜林恢复一定的元素能量，每6秒至多通过这种方式恢复一次元素能量。",
-                "Icon": "Skill_S_Durin_01"
+                "Icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon/692f7dca/da5dc3d51a7f6b4c22cd1610d7db9498.png"
             }
         ],
         "EnergySkill": {
@@ -777,7 +777,7 @@
             "Id": 11235,
             "Name": "白化法·如光流变",
             "Description": "以不同的方式解放「兽」的力量。依据杜林的{LINK#N11230001}<color=#FFD780FF>精质转变</color>{/LINK}状态，杜林可以施放不同的元素爆发。\n\n<color=#FFD780FF>白化法·如光流变</color>\n若杜林处于<color=#FFD780FF>白化之是</color>状态，将施放元素爆发<color=#FFD780FF>白化法·如光流变</color>，对前方的敌人造成三次<color=#FF9999FF>火元素范围伤害</color>，并将自身的力量以<color=#FFD780FF>「白焰之龙」</color>的形态显现。「白焰之龙」将跟随当前场上角色，并间歇性攻击周围的敌人，造成<color=#FF9999FF>火元素范围伤害</color>，该伤害视为元素爆发伤害。\n\n<color=#FFD780FF>黑度法·如星阴燃</color>\n若杜林处于<color=#FFD780FF>黑度之否</color>状态，将转为施放元素爆发<color=#FFD780FF>黑度法·如星阴燃</color>，对前方的敌人造成三次<color=#FF9999FF>火元素范围伤害</color>，并将自身的力量以<color=#FFD780FF>「黑蚀之龙」</color>的形态显现。「黑蚀之龙」将跟随当前场上角色，并间歇性对周围一名敌人发起攻击，造成<color=#FF9999FF>火元素伤害</color>，该伤害视为元素爆发伤害。\n\n此外，若杜林不处于精质转变的特殊状态，将施放元素爆发<color=#FFD780FF>白化法·如光流变</color>。",
-            "Icon": "Skill_E_Durin_01"
+            "Icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon/692f7dca/2b639fe373a88bafbeb79ad00aa0f130.png"
         },
         "Inherents": [
             {
@@ -846,37 +846,37 @@
                 "Id": 1231,
                 "Name": "红土之逆",
                 "Description": "施放元素爆发后，依据杜林施放的元素爆发，会分别造成不同的效果：\n·<color=#FFD780FF>白化法·如光流变</color>：队伍中附近的所有其他角色获得20层<color=#FFD780FF>「轮变启迪」</color>，持续20秒。拥有「轮变启迪」的当前场上角色的普通攻击、重击、下落攻击、元素战技或元素爆发造成伤害时，将消耗1层「轮变启迪」，提升造成的伤害，提升值相当于杜林攻击力的60%。队伍中拥有「轮变启迪」的角色，其生效次数单独计算。\n·<color=#FFD780FF>黑度法·如星阴燃</color>：杜林获得20层<color=#FFD780FF>「轮变启迪」</color>，持续20秒。杜林造成元素爆发伤害时，将消耗2层「轮变启迪」，提升造成的伤害，提升值相当于杜林攻击力的150%。\n\n施放元素爆发时，<color=#FFD780FF>「轮变启迪」</color>的层数将会刷新。",
-                "Icon": "UI_Talent_S_Durin_03"
+                "Icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon/692f7dcc/cf3589764ffeba96ea22f1b29ff55b8f.png"
             },
             {
                 "Id": 1232,
                 "Name": "无底之想",
                 "Description": "杜林施放元素爆发后的20秒内，队伍中附近的角色对敌人触发蒸发、融化、燃烧、超载、火元素扩散或火元素结晶反应后，或对处于燃烧状态下的敌人造成<color=#FF9999FF>火元素伤害</color>或<color=#99FF88FF>草元素伤害</color>时，队伍中附近的角色造成的<color=#FF9999FF>火元素伤害</color>与参与反应的对应元素伤害提升50%，持续6秒。",
-                "Icon": "UI_Talent_S_Durin_04"
+                "Icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon/692f7dcc/fb04502683340c1d5d10aaa5279ce7e8.png"
             },
             {
                 "Id": 1233,
                 "Name": "焰镜之显",
                 "Description": "元素爆发<color=#FFD780FF>{LINK#S11235}白化法·如光流变{/LINK}</color>的技能等级提高3级。\n至多提升至15级。",
-                "Icon": "UI_Talent_U_Durin_01"
+                "Icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon/692f7dcc/9faabf53a909f7842e6357631de6ae8c.png"
             },
             {
                 "Id": 1234,
                 "Name": "流溢之原",
                 "Description": "杜林造成的元素爆发伤害提升40%。此外，触发命之座<color=#FFD780FF>{LINK#T1231}「红土之逆」{/LINK}</color>中消耗<color=#FFD780FF>「轮变启迪」</color>的效果时，有30%几率不会消耗「轮变启迪」。",
-                "Icon": "UI_Talent_S_Durin_05"
+                "Icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon/692f7dcc/0d79d4817c07ac5014f04293fec0c66c.png"
             },
             {
                 "Id": 1235,
                 "Name": "苦火之裂",
                 "Description": "元素战技<color=#FFD780FF>{LINK#S11232}二元式·聚分熔炼{/LINK}</color>的技能等级提高3级。\n至多提升至15级。",
-                "Icon": "UI_Talent_U_Durin_02"
+                "Icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon/692f7dcc/af73e2be41323b308c1e24f33e12e167.png"
             },
             {
                 "Id": 1236,
                 "Name": "双重诞生",
                 "Description": "杜林造成的元素爆发伤害将无视敌人30%的防御力。\n此外，杜林的元素爆发<color=#FFD780FF>白化法·如光流变</color>与<color=#FFD780FF>黑度法·如星阴燃</color>分别获得强化：\n·元素爆发<color=#FFD780FF>白化法·如光流变</color>与<color=#FFD780FF>「白焰之龙」</color>命中敌人时，该敌人的防御力降低30%，持续6秒；\n·元素爆发<color=#FFD780FF>黑度法·如星阴燃</color>与<color=#FFD780FF>「黑蚀之龙」</color>造成的伤害将额外无视敌人40%的防御力。",
-                "Icon": "UI_Talent_S_Durin_06"
+                "Icon": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon/692f7dcc/58e967918afb1d933cd190650aa57a4a.png"
             }
         ]
     },
